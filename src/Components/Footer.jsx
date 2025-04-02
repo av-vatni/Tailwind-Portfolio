@@ -1,6 +1,5 @@
 // src/components/Footer.jsx
 import React from 'react';
-import './Footer.css';
 
 // Importing icons from assets
 import InstagramIcon from '../assets/instagram-icon.png';
