@@ -128,14 +128,6 @@ const projects = [
 - Update component styles in individual `.jsx` files
 - Global styles can be modified in `src/index.css`
 
-## 📱 Screenshots
-
-### Desktop Layout
-![Desktop Layout](https://via.placeholder.com/800x500/1f2937/ffffff?text=Desktop+Layout)
-
-### Mobile Layout
-![Mobile Layout](https://via.placeholder.com/400x700/1f2937/ffffff?text=Mobile+Layout)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
