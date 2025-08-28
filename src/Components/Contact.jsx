@@ -56,7 +56,7 @@ function Contact() {
         {/* Download Resume Button */}
         <div className="mt-4">
           <a
-            href="/resume.pdf"
+            href="https://resume-av.s3.ap-south-1.amazonaws.com/Avdhut+Vatni.pdf"
             download="Avdhut_Vatni_Resume.pdf"
             className="inline-flex items-center px-6 py-3 text-lg font-semibold text-white bg-blue-500 rounded-lg shadow-md hover:bg-blue-600 transition-all duration-300"
           >
